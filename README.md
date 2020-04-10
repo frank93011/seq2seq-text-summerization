@@ -1,4 +1,4 @@
-# HW1 README
+# seq2seq-text-summerization
 
 ## Requirement
 Run `bash download.sh` for download all the requirements data
@@ -26,4 +26,3 @@ Run **seq2seq-training.ipynb** file for attention model training
 Run **seq2tag-training.ipynb** file for attention model training and histogram plotting
 
 ![](https://i.imgur.com/gloKthR.png)
-# seq2seq-text-summerization
