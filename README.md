@@ -23,6 +23,6 @@ Run **attention_plot.ipynb** for plotting the output like:
 Run **seq2seq-training.ipynb** file for attention model training
     
 ## For sequence taggeer training and plotting
-Run **seq2tag-training.ipynb** file for attention model training and histogram plotting
+Run **seq2tag-training.ipynb** file for extractive model training and histogram plotting
 
 ![](https://i.imgur.com/gloKthR.png)
